@@ -14,7 +14,7 @@ pip install Unidecode
 ```
 
 ### یا روش دوم با فایل requirement.txt
-`pip install -r requirements.txt`
+```pip install -r requirements.txt```
 ## شروع به کار
 
 خزنده سایت time.ir، دور زدن csrf و موانع.\
