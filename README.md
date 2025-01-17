@@ -5,12 +5,16 @@
 - کتابخانه requests
 - کتابخانه bs4
 - کتابخانه unicode
+برای نصب کتابخانه ها می تونید از دو روش:
+### روش اول
 ```
 pip install requests
 pip install bs4
 pip install Unidecode
 ```
 
+### یا روش دوم با فایل requirement.txt
+`pip install -r requirements.txt`
 ## شروع به کار
 
 خزنده سایت time.ir، دور زدن csrf و موانع.\
